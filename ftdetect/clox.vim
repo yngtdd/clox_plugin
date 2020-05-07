@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.clox set filetype=clox
+au BufNewFile,BufRead *.clox set setfiletype=clox
